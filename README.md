@@ -2,16 +2,16 @@
 
 ## Quick Setup Steps
 
-### 1. Install Environment
-```bash
-conda env create -f environment.yml
-conda activate spaceship
-```
-
-### 2. Get Project Files
+### 1. Get Project Files
 ```bash
 git clone <repository-url>
 cd FinalProject
+```
+
+### 2. Install Environment
+```bash
+conda env create -f environment.yml
+conda activate spaceship
 ```
 
 ### 3. Pull Data
