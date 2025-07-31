@@ -1,14 +1,22 @@
 name: spaceship
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
-  - python=3.10        
-  - pip                
+  - python=3.10
+  - pip
+  - ipython
+  - jupyter
+  - matplotlib
+  - seaborn
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - tensorflow
+  - keras
+  - torch
+  - torchvision
+  - pytorch-lightning
   - pip:
-      - dvc[gdrive]   
-      - scikit-learn   
-      - pandas
-      - matplotlib
-      - seaborn
-      - numpy
+      - dvc[gdrive]
