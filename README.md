@@ -9,7 +9,7 @@ A comprehensive machine learning project for predicting passenger transportation
 **Best Score**: 80.734% accuracy (Rank 248)  
 **Problem Type**: Binary Classification  
 
-![Competition Achievement](reports/figures/best_submission.png)
+![Competition Achievement](reports/figures/best_submission.jpg)
 *Achievement: 80.734% accuracy - Ranked 248th among all competition participants*
 
 ### 🎯 Key Achievements
